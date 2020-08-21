@@ -5,21 +5,28 @@
 
 ### Ferramentas Necessarias
 * Baixe e instale o python (Preferivel versao 3.7.4)
+```
 https://www.python.org/downloads/
+```
 
 * Baixe e instale o node 
+```
 https://nodejs.org/en/download/
-
+```
 
 ### Iniciar projeto do Backend
 * Crie um virtualenv com Python 3.
 * Abra o terminal e entre na pasta do boilerplate até a pasta chamada backend
+```
 cd aba-teste
 cd backend
+```
 
 * Ative o virtualenv.
+```
 python -m venv .venv
 source .venv/bin/activate
+```
 
 Caso nao consiga executar o comando source:
 - Windows
@@ -27,13 +34,18 @@ Caso nao consiga executar o comando source:
     -- Outra forma é entrar na pasta criada .venv e execute: ./Scripts/activate
 
 * Instale as dependências.
+```
 pip install -r requirements.txt
 python contrib/env_gen.py
+```
 
 * Rode as migrações.
+```
 python manage.py migrate
+```
 
 * Crie um super usuário
+```
 python manage.py createsuperuser
 ```
 
@@ -52,11 +64,16 @@ Para rodar o VueJS, abra uma **nova aba no terminal** e va ate a pasta frontend,
 
 ```
 cd ../frontend
+```
 ### Dentro da pasta frontend, primeiro precisa instalar o vue e suas dependências.
+```
 npm install
+```
 
 ### Rode o servidor frontend
+```
 npm run serve
+```
 
 Isso vai rodar o servidor de front na porta **8080**.
 
