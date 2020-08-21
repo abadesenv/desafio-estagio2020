@@ -1,7 +1,7 @@
 
 # Guia de uso do projeto base
 
-##INSTALAÇÂO
+## INSTALAÇÂO
 
 ### Ferramentas Necessarias
 * Baixe e instale o python (Preferivel versao 3.7.4)
@@ -52,7 +52,7 @@ Para rodar o VueJS, abra uma **nova aba no terminal** e va ate a pasta frontend,
 
 ```
 cd ../frontend
-### dentro da pasta frontend, primeiro precisa instalar o vue e suas dependências.
+### Dentro da pasta frontend, primeiro precisa instalar o vue e suas dependências.
 npm install
 
 ### Rode o servidor frontend
