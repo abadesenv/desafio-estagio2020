@@ -25,12 +25,12 @@ cd backend
 ```
 python -m venv .venv
 source .venv/bin/activate
-```
 
 Caso nao consiga executar o comando source:
 - Windows
-    -- Verifique se as variaveis de ambiente do python estao setadas (Ex: C:\Users\fulano\AppData\Local\Programs\Python\Python37\ e C:\Users\fulano\AppData\Local\Programs\Python\Python37\Scripts\) e tente novamente.
-    -- Outra forma é entrar na pasta criada .venv e execute: ./Scripts/activate
+    - Verifique se as variaveis de ambiente do python estao setadas (Ex: C:\Users\fulano\AppData\Local\Programs\Python\Python37\ e C:\Users\fulano\AppData\Local\Programs\Python\Python37\Scripts\) e tente novamente.
+    - Outra forma é entrar na pasta criada .venv e execute: ./Scripts/activate
+```
 
 * Instale as dependências.
 ```
