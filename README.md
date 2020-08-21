@@ -18,7 +18,6 @@ https://nodejs.org/en/download/
 * Crie um virtualenv com Python 3.
 * Abra o terminal e entre na pasta do boilerplate até a pasta chamada backend
 ```
-cd aba-teste
 cd backend
 ```
 
@@ -86,12 +85,12 @@ Isso vai rodar o servidor de front na porta **8080**.
 
 ## Observações
 
--- Não precisa instalar nenhum banco pois o boilerplate já está utilizando o sqlite mas caso tenha familiariedade com outro banco de dados, pode utiliza-lo mas configure o projeto para utilizar o banco desejado.
--- Dê o seu máximo em relação a organização do código e funcionalidades.
--- Sabemos que nem todos conseguirão concluir o desafio, por isso não desista e entregue oque conseguir.
--- O intuito do desafio é apenas mensurar a capacidade do candidato em utilizar as tecnologias em um projeto.
--- Dê preferencia a interface utilizando Vue (Vuetify) mas caso não seja possivel pode se utilizar html/css e JS ou outro framework.
--- Ao finalizar o projeto, suba para o github e nos envie por email com o link do seu projeto, verificaremos o ultimo commit antes do horario máximo estabelecido.
+- Não precisa instalar nenhum banco pois o boilerplate já está utilizando o sqlite mas caso tenha familiariedade com outro banco de dados, pode utiliza-lo mas configure o projeto para utilizar o banco desejado.
+- Dê o seu máximo em relação a organização do código e funcionalidades.
+- Sabemos que nem todos conseguirão concluir o desafio, por isso não desista e entregue oque conseguir.
+- O intuito do desafio é apenas mensurar a capacidade do candidato em utilizar as tecnologias em um projeto.
+- Dê preferencia a interface utilizando Vue (Vuetify) mas caso não seja possivel pode se utilizar html/css e JS ou outro framework.
+- Ao finalizar o projeto, suba para o github e nos envie por email com o link do seu projeto, verificaremos o ultimo commit antes do horario máximo estabelecido.
 
 ## Links Relacionados (Uteis)
 - https://vuejs.org/
